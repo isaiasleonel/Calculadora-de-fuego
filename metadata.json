@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Carga de Fuego",
+  "description": "Aplicación web para calcular la carga de fuego de un área específica. Esta herramienta ayuda a evaluar el riesgo de incendio y a determinar las necesidades de equipos de extinción, basándose en los materiales combustibles presentes.",
+  "requestFramePermissions": []
+}
